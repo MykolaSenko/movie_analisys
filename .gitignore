@@ -165,3 +165,4 @@ data/links.csv
 data/movies.csv
 data/ratings.csv
 data/tags.csv
+notebooks/spark-warehouse
